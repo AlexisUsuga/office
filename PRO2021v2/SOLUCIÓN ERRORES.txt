@@ -1,0 +1,39 @@
+👇(ESTA ES LA MEJOR SOLUCIÓN A ERRORES)👇
+
+👉 Si quieres un proceso sin ningún problema y 100% funcional es necesario desinstalar el Office que tengas actualmente con el DESINSTALADOR OFICIAL DE MICROSOFT (SARA) donde explico el paso a paso en ese video, también se debe usar los instaladores que dejo en el archivo extraíble ya que esto garantiza la compatibilidad con el proceso CMD.
+
+NOTA: 👆 LINK DESINSTALADOR OFFICE SARA 👆: https://youtu.be/kuw7tu0xrls
+-------------------------------------------------------------------------------------------
+
+SI ES UNA INSTALACIÓN LIMPIA DESPUÉS DE HACER TODO EL PROCESO IGUAL SE DEBE REINICIAR EL PC
+
+-------------------------------------------------------------------------------------------
+(SOLUCIONES A ERRORES VARIOS)
+
+- (Me aparece ERROR en las lineas de comando)
+
+R// Continuen con el proceso del CMD normal, luego reinicien el equipo y validen que les figure que ya está listo y funcionando.
+-------------------------------------------------------------------------------------------
+- (El sistema no puede encontrar la ruta especificada ó ubicación del archivo no encontrada) 
+
+R// Puede ser que hayas usado el archivo de texto de CMD equivocada intentar con el otro archivo de texto, la que funciona en el vídeo es la x64 con Setup x64, si no te funciona es por que el office que tienes actual está instalado en una ruta diferente a la por defecto por lo cual el paso en CMD no encuentra la ruta para hacer el proceso y en ese caso deberías hacer una instalación limpia descargando e instalando tal cual como lo explico en el tutorial para garantizar compatibilidad y funcionalidad 100% y recuerden que el CMD Símbolo del sistema lo deben abrir como ADMINISTRADOR para que funcione.
+-------------------------------------------------------------------------------------------
+- (En el último o penúltimo paso del CMD no se realiza correctamente ó sale cualquier tipo de error EJ No Office KMS licenses were found on the system)
+
+R// Definitivamente para que funcione hay que iniciar CMD como ADMINISTRADOR, a unos después del tercer y quinto intento les funciona pero pasa por que ya tenian otro Office instalado, si no les funciona si o si deben hacer una instalación limpia desde cero desinstalando el Office que tienen actual y hacer los pasos del tutorial.
+-------------------------------------------------------------------------------------------
+- (ERROR CODE: 0xC004F025 ERROR DESCRIPTION: The Software Licensing Service reported that the action requires administrator privilege)
+
+R// Deben cambiar los permisos de usuario en su PC ya que el CMD se tiene que ejecutar como ADMINISTRADOR, no es problema del proceso CMD ni del Office, cambiar los permisos desde cuentas de usuario en su PC.
+-------------------------------------------------------------------------------------------
+- (ERROR CODE: 0xC004F017 The Software Licensing Service reported that the license is not installed)
+
+R// Hacer el proceso normal hasta que salga el error en el CMD esperar que finalice, luego abrir word puede que aparezca Office 365 ú Office 2016 cierran el word y reinician el equipo al abrir el word después del reinicio ya aparece Office 2019 funcionando.
+-------------------------------------------------------------------------------------------
+- (ERROR CODE: 30068-39 al iniciar la descarga del Office)
+
+R// Solo se debe reiniciar el Pc y volver a intentar
+-------------------------------------------------------------------------------------------
+- (ERROR CODE: 0xC004F074)
+
+R// Es por que se tiene la cuenta o sesión abierta en el Office, primero se debe cerrar sesión en el Office y luego hacer los pasos del CMD con las líneas de comando.
